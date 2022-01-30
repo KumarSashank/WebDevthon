@@ -43,7 +43,7 @@ function submitForm(e) {
   //   reset the form
   document.getElementById("contactForm").reset();
   alert("Submitted Successfully");
-  window.location.replace("index.html");
+  window.location.replace("WebMobDevthon.html");
 }
 
 const saveMessages = (group, name, emailid, number,name1,emailid1, name2, emailid2, name3, emailid3) => {
